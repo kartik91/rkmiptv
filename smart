@@ -82,7 +82,7 @@ http://public.rkmiptv.fun/smart.php?id=9201
 http://public.rkmiptv.fun/smart.php?id=1847
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-logo="1765.png" group-title="ENGLISH | KIDS",CARTOON NETWORK USA 
 http://public.rkmiptv.fun/smart.php?id=1848
-#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-logo="2458.png" group-title="ENGLISH | KIDS",CARTOON NETWORK CANADA 
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-logo="2458.png" group-title="ENGLISH | KIDS",CARTOON NETWORK CANADA
 http://public.rkmiptv.fun/smart.php?id=2541
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-logo="1763.png" group-title="ENGLISH | KIDS",DISNEY CHANNEL. 4K 
 http://public.rkmiptv.fun/smart.php?id=1846
